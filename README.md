@@ -6,12 +6,16 @@ We generated a set of 2,000 random latitudes and longitudes, retrieved the neare
 
 Here are a few plots showing some relationships that would be pertinent to the weather of any particular city:
 
+City Latitude vs. Max Temperature(F):
 ![Fig1.png](weather_data/Fig1.png)
 
+City Latitude vs. Humidity(%):
 ![Fig2.png](weather_data/Fig2.png)
 
+City Latitude vs. Cloudiness(%):
 ![Fig3.png](weather_data/Fig3.png)
 
+City Latitude vs. Wind Speed(mph):
 ![Fig4.png](weather_data/Fig4.png)
 
 We then employed input statements to retrieve customer weather preferences. Next, we used those preferences to identify potential travel destinations and nearby hotels. Finally, we showed those destinations on a marker layer map with pop-up markers.
